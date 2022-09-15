@@ -1,1 +1,1 @@
-- 👋 Hi, my name is Artur Sidorov, i will succeed!
+- 👋 Hi, my name is Artur Sidorov, and i will succeed!
