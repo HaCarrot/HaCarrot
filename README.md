@@ -6,6 +6,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaCarrot&repo=Task-24-Processing-character-strings)](https://github.com/HaCarrot/Task-24-Processing-character-strings)
 
-<h4> Where do I work at the moment: ООО "НИРА СОФТ"</h4>
+<h4> Where do I work at the moment: ЧОП "Гранит"</h4>
 
 <h5> How to contact me: carrotorangelike@gmail.com </h5>
